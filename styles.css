@@ -1,0 +1,51 @@
+body {
+    margin: 50px;
+    font: Courier New;
+    background-image: url(https://looneytuneswom.scopely.com/wp-content/uploads/sites/2/2021/01/Forest-Regional-1200x666.png)
+    
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 10px;
+    
+}
+
+.card {
+    width: 380px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #fee231;
+    color: #28947f;
+    border-radius: 15px;
+    transition: .4s;
+}
+
+.text{
+    margin-top: 20px;
+    
+}
+
+.card:hover{
+   background: #28947f;
+   color: #fee231;
+   width: 400px;
+
+    
+}
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
